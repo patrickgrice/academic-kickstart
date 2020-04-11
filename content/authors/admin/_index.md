@@ -1,41 +1,41 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Patrick Rice
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors: 
+- patrickrice
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Academic Foundation Doctor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University Hospital Southampton
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a clinical academic interested in how we can use robotics and machine learning to make better decisions and deliver better patient care.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Academic Surgery
+- Statistics & Research Methods
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelor of Medicine, Bachelor of Surgery
+    institution: University of Southampton
+    year: 2020
+  - course: BMedSci(Hons) in Medical Sciences
+    institution: University of Southampton
+    year: 2018
+  - course: BSc in Psychology
+    institution: University of Sheffield
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:pr2e15@soton.ac.uk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/patrickgrice
+- icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.researchgate.net/profile/Patrick_Rice3
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/patrickgrice
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
